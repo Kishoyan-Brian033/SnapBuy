@@ -1,4 +1,4 @@
-# Casmart - Biggest Shopping Center
+# Snapbuy - Biggest Shopping Center
 
 Casmart is a fashion e-commerce website that offers a complete wardrobe of uniquely crafted ethnic wear, casuals, edgy denims, and accessories inspired by contemporary trends. The site features a modern and user-friendly design to provide an enjoyable shopping experience.
 
